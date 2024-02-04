@@ -1,9 +1,11 @@
 import os
 import random
+import sys
 
 from dotenv import load_dotenv
 import tweepy
 
+os.chdir(sys.path[0])
 load_dotenv()
 
 client = tweepy.Client(
@@ -25,7 +27,8 @@ def getQuote() -> str:
         if len(log) < limit:
             log = [""] * (limit - len(log)) + log
     with open("quotes.txt", "r", encoding="utf-8") as f:
-        quotes = [quote for quote in f.read().splitlines() if passQuote(quote, log)]
+        quotes = [quote for quote in f.read().splitlines()
+                  if passQuote(quote, log)]
     random_quote = random.choice(quotes)
     log.pop(0)
     log.append(random_quote)
@@ -34,4 +37,6 @@ def getQuote() -> str:
     return random_quote.replace("\\n", "\n")
 
 
-client.create_tweet(text=getQuote())
+if __name__ == "__main__":
+    tweet = client.create_tweet(text=getQuote())
+    print(tweet.data["id"] + "\n")

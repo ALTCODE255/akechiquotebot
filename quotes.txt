@@ -20,6 +20,7 @@ None of these people know that I was an undesirable child. I wanted people to re
 If they get their hands on the perpetrator, there'll be no need for him to turn himself in, no?
 If I had to explain myself, I'd say it's simply personal principle that I repay my debts.
 
+# P5R Thieves Den
 Am I the only sane person here?
 By the way, the real Captain Kidd was publicly executed. They left his body hanging there for years on end.
 Ha. And? It's their fault for being stupid enough to fall for the act.
@@ -155,6 +156,7 @@ I don't mind acting under a fake personality, but nothing beats being able to ac
 What, you like this place that much? I guess I understand how you feel.
 I'm glad you're still normal, even in this bizarre situation. If you'd lost it too... Well, if that happened, I would have slapped you awake.
 
+# P5R: Third Semester Mementos
 Pancakes... I don't want to hear that word again for a long, long time.
 I enjoy spending time in Kichijoji. It's not very big, but there are plenty of trendy shops.
 This place is immense. If there weren't train tracks everywhere, I'd bring my bike here.
@@ -165,6 +167,7 @@ You may not like working with me, but I'm counting on your assistance until our 
 If you're looking for a way to train your mind and your body, I highly recommend bouldering.
 A world that panders to your every whim is so mundane. Where's the thrill if there's no competition?
 
+# P5R: Third Semester In-Battle
 Let's do this, Joker...
 I'm getting a warm, tingly feeling from all this power!
 Hm, you— I mean we… can do better.
@@ -214,11 +217,12 @@ Sorry it took me so long. I'm here to rescue you. Is that what you thought I'd s
 Get going, you white knights.
 What's wrong? Get up. It's too early for checkmate, isn't it?
 
-# Unused
+# Unused Navigation Lines (Detective Prince)
 You ARE Phantom Thieves, aren't you? And you can't do a better job of avoiding Shadows than this?
 Why are you drawing the attention of all these Shadows?! Trying to make new friends or something?
 You're still not turning back despite how bad it's gotten here?! You're either very brave or very stupid.
 
+# Unused Costume Dialogue
 Joker... Why exactly did you have me change into my swimsuit? I understand that it grants better mobility, but... Surely it's common sense to not wear one here of all places?
 This is the bartender's outfit, apparently. Sorry, but I can't serve any alcohol. I suppose I could serve you all juice... Either that or a soft cocktail. I know a good place in Kichijoji.
 If you were a woman, I'd call you princess... but I suppose in this case, I'll call you Master.
@@ -237,10 +241,12 @@ Perhaps we should have a dance competition this time? Only kidding. I don't have
 That's from Phoenix Ranger Neo-Featherman, correct? They're heroes admired by children, and despite its age, the show is still quite popular. But, you might want to consider cutting back on cosplaying. You're not a child anymore.
 Joker, what are you wearing? I suppose it's a custom made costume, but it makes you seem quite different than usual. Actually, can you even see me in there? ...Joker? Heeey!
 
+# Unused Sae Palace Poker Scene
 All I can do... is wish you good luck.
 Despite the common view that black cats are a sign of misfortune, some believe they bring good luck. I wonder which side of the coin you represent for me?
 I wish to place my bets on your being a good luck cat.
 
+# Unused P5R Alternative Third Awakening Scene
 Nostalgic, eh? You very well could be right. I'm remembering things that are a bit too bitter for me, though...
 At any rate, I want to thank you about the deal we made on the "ship".
 Boy, you're honest to a fault, aren't you?
@@ -250,6 +256,7 @@ I know this isn't the reaction I'd usually have... But it's how I feel, so there
 Your straightforwardness is quite aggressive. Actually, it's to the point of irritation. I genuinely cannot comprehend how you live your life like that.
 You still have my glove, right? Don't think I've forgotten about that. I simply can't lose to you again.
 
+# Unused Darts Dialogue
 What the hell does that even mean...
 ...Don't look at me like that.
 I don't need you to tell me that. I'm always calm.

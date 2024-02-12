@@ -177,7 +177,7 @@ Joker's enraged? I kind of like it, but it's not you! Calm down!
 Joker's more brainwashed than a cult member! He can't tell friend from foe!
 Joker's mind is muddled! He might do weird stuff while confused!
 Zzz...
-Aaiiee! I-I don't wanna do this scary shit anymore!
+Aaiiee! I-I don't want to do this scary shit anymore!
 You're all my enemies! No, I am NOT brainwashed!
 Guys... don't you see? There's no hope... we're going to die here...
 Persona? What's that? Damn, I can't remember...
@@ -216,6 +216,10 @@ Everyone look! It's a new high score!
 Sorry it took me so long. I'm here to rescue you. Is that what you thought I'd say?
 Get going, you white knights.
 What's wrong? Get up. It's too early for checkmate, isn't it?
+
+# P5T
+And so you know: attempts at manipulation put me in a bad mood.
+That's quite an amusing joke. Well done.
 
 # Unused Navigation Lines (Detective Prince)
 You ARE Phantom Thieves, aren't you? And you can't do a better job of avoiding Shadows than this?
